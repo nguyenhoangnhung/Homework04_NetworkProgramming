@@ -1,0 +1,4 @@
+﻿  TelnetServerWSAA.cpp
+c:\users\khangkhang\documents\visual studio 2015\projects\homework4\homework4\telnetserverwsaa\telnetserverwsaa.cpp(212): warning C4101: 'sendBuf': unreferenced local variable
+  TelnetServerWSAA.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\homework4\homework4\Debug\TelnetServerWSAA.exe
+  TelnetServerWSAA.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\homework4\homework4\Debug\TelnetServerWSAA.pdb (Full PDB)
